@@ -8,7 +8,7 @@ Premium neon-purple & radical aesthetic · Fully badge-driven · Recruiter-ready
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━ HEADER WAVE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=السلام علیکم&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sufyan&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
