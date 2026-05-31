@@ -1,37 +1,38 @@
 <!-- 
 ==================================================================================
-🌟 SUFYAN'S PROFESSIONAL PORTFOLIO GITHUB PROFILE README
+🌟 SUFYAN'S ULTIMATE PROFESSIONAL PORTFOLIO GITHUB PROFILE README
 ==================================================================================
-Designed with a premium neon-purple & electric-blue aesthetic.
-Make sure to replace all placeholder links marked with "sufyancreatives" 
-or custom URLs with your actual profile links.
+Premium neon-purple & radical aesthetic · Fully badge-driven · Recruiter-ready
 ==================================================================================
 -->
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ HEADER WAVE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sufyan&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Data%20Scientist%20|%20ML%20Engineer%20|%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+
 <div align="center">
 
-  <!-- 🚀 Header Section -->
-  <h1>Hi 👋, I'm Sufyan</h1>
-  
-  <!-- Dynamic Typing Subtitle using Readme Typing SVG -->
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=9F55FF&background=00000000&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;AI+Enthusiast;Machine+Learning+Developer;Data+Storyteller" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=9F55FF&background=00000000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96;Machine+Learning+Developer+%F0%9F%A7%A0;Data+Storyteller+%F0%9F%93%96;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 
-  <p align="center">
+  <p>
     <strong>Building AI-powered solutions and exploring Data Science, Machine Learning, and Software Development.</strong>
   </p>
 
   <br />
 
   <!-- 🎯 Professional Banner -->
-  <img src="./profile_banner.png" width="100%" alt="Sufyan | Data Scientist Profile Banner" style="border-radius: 12px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);" />
+  <img src="./profile_banner.png" width="100%" alt="Sufyan | Data Scientist Profile Banner" />
 
 </div>
 
 <br />
 
 ---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ ABOUT ME ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 👨‍💻 About Me
 
@@ -54,252 +55,385 @@ or custom URLs with your actual profile links.
 
 ---
 
-## 🛠 Tech Stack
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ 3D TROPHIES ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="left">
-
-### 💻 Languages
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-<a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
-
-### 📊 Data Science & Analytics
-<a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
-<a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
-
-### 🧠 Machine Learning Expertise
-<a href="#"><img src="https://img.shields.io/badge/Regression-8A2BE2?style=flat-square&logo=analytics&logoColor=white" alt="Regression" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Classification-9932CC?style=flat-square&logo=analytics&logoColor=white" alt="Classification" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Clustering-BA55D3?style=flat-square&logo=analytics&logoColor=white" alt="Clustering" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Feature%20Engineering-8B008B?style=flat-square&logo=gitbook&logoColor=white" alt="Feature Engineering" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Model%20Evaluation-9400D3?style=flat-square&logo=fastapi&logoColor=white" alt="Model Evaluation" /></a>
-
-### ⚙️ Tools & Infrastructure
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /></a>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <!-- Note: Replace "sufyancreatives" with your actual GitHub username -->
-  <table border="0" cellpadding="0" cellspacing="10" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sufyancreatives&show_icons=true&theme=tokyonight&border_radius=10&locale=en" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sufyancreatives&theme=tokyonight&border_radius=10" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyancreatives&layout=compact&theme=tokyonight&border_radius=10" width="100%" alt="Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=sufyancreatives&theme=tokyonight&column=3&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <!-- Dynamic Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sufyancreatives&theme=tokyonight&area=true&hide_border=true" width="100%" alt="Contribution Graph" style="border-radius: 10px;" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sufyancreatives&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
+
+---
+
+### 📊 Data Science & Analytics Libraries
+
+<div align="center">
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+</div>
+
+```text
+📦 NumPy     ████████████████████  Expert  — Arrays, Linear Algebra, Math Operations
+📦 Pandas    ████████████████████  Expert  — DataFrames, Data Wrangling, EDA
+📦 Matplotlib████████████████░░░░  Advanced— Static Charts, Subplots, Customization
+📦 Seaborn   ████████████████░░░░  Advanced— Statistical Plots, Heatmaps, Distributions
+📦 Plotly    ████████████░░░░░░░░  Growing — Interactive Charts, 3D Plots, Dashboards
+```
+
+---
+
+### 🤖 Machine Learning & AI
+
+<div align="center">
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+```text
+🤖 Scikit-Learn  ████████████████████  Expert  — Classification, Regression, Clustering
+🧠 TensorFlow    ████████████░░░░░░░░  Growing — Neural Networks, Model Training
+🔬 Keras         ████████████░░░░░░░░  Growing — Deep Learning, Sequential Models
+👁️ OpenCV        ████████░░░░░░░░░░░░  Learning— Computer Vision, Image Processing
+📝 NLTK          ████████░░░░░░░░░░░░  Learning— Text Processing, NLP Basics
+```
+
+---
+
+### 🔧 ML Techniques Mastered
+
+```text
+✅ Linear Regression          ✅ Logistic Regression
+✅ Decision Trees             ✅ Random Forest
+✅ Support Vector Machines    ✅ K-Nearest Neighbors
+✅ K-Means Clustering         ✅ Principal Component Analysis
+✅ Feature Engineering        ✅ Cross Validation
+✅ Hyperparameter Tuning      ✅ Model Evaluation (ROC, AUC, F1)
+🔄 Gradient Boosting (XGBoost)🔄 Neural Networks
+🔄 Convolutional Networks     🔄 Recurrent Networks (LSTM)
+```
+
+---
+
+### 🖥️ Tools & Platforms
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ GITHUB STATS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sufyancreatives&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sufyancreatives&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sufyancreatives&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Sufyan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sufyancreatives&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ SKILL BARS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 📈 Skill Proficiency
+
+```text
+Python          ██████████████████░░   90%
+Data Analysis   █████████████████░░░   85%
+Machine Learning████████████████░░░░   80%
+NumPy           ████████████████████  95%
+Pandas          ████████████████████  95%
+Matplotlib      ████████████████░░░░   80%
+Seaborn         ████████████████░░░░   80%
+Scikit-Learn    ██████████████████░░   88%
+SQL             ███████████████░░░░░   75%
+Deep Learning   ████████████░░░░░░░░   60%
+NLP             ████████████░░░░░░░░   58%
+Streamlit       ███████████████░░░░░   75%
+Git & GitHub    ████████████████░░░░   80%
+Power BI        ██████████████░░░░░░   70%
+```
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━ FEATURED PROJECTS ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🚀 Featured Projects
 
-<table width="100%" border="0" cellspacing="10" cellpadding="10">
-  <tr>
-    <!-- Project 1 -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background: #0d1117;">
-      <h3>📊 1️⃣ Customer Churn Prediction Dashboard</h3>
-      <p>An interactive, full-stack ML application deployed on Streamlit, analyzing customer retention behaviors with precise ML classifiers.</p>
-      <div>
-        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px; margin-right: 5px;">Machine Learning</span>
-        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px; margin-right: 5px;">Data Viz</span>
-        <span style="background: #8957e5; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px;">Streamlit</span>
-      </div>
-      <br />
-      <a href="https://github.com/sufyancreatives/Customer-Churn-Prediction" target="_blank"><strong>Explore Project →</strong></a>
-    </td>
-    <!-- Project 2 -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background: #0d1117;">
-      <h3>📈 2️⃣ Sales Analytics Dashboard</h3>
-      <p>A comprehensive business intelligence platform mapping corporate sales trends, profit margins, and predictive forecasting pipelines.</p>
-      <div>
-        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px; margin-right: 5px;">BI</span>
-        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px; margin-right: 5px;">Python Visualizations</span>
-        <span style="background: #e3b341; color: black; padding: 3px 8px; border-radius: 20px; font-size: 11px;">Data Analytics</span>
-      </div>
-      <br />
-      <a href="https://github.com/sufyancreatives/Sales-Analytics-Dashboard" target="_blank"><strong>Explore Project →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 3 -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background: #0d1117;">
-      <h3>🧠 3️⃣ Student Performance Prediction</h3>
-      <p>An end-to-end predictive framework modeling student outcomes through advanced feature engineering and evaluation benchmarks.</p>
-      <div>
-        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px; margin-right: 5px;">Supervised ML</span>
-        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px; margin-right: 5px;">Predictive Analytics</span>
-        <span style="background: #f78166; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px;">Feature Engineering</span>
-      </div>
-      <br />
-      <a href="https://github.com/sufyancreatives/Student-Performance-Prediction" target="_blank"><strong>Explore Project →</strong></a>
-    </td>
-    <!-- Project 4 -->
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px; background: #0d1117;">
-      <h3>💬 4️⃣ AI Chatbot</h3>
-      <p>A smart, conversational natural language assistant trained on custom contexts with advanced NLP embeddings.</p>
-      <div>
-        <span style="background: #8957e5; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px; margin-right: 5px;">NLP</span>
-        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px; margin-right: 5px;">Python API</span>
-        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 11px;">Generative AI</span>
-      </div>
-      <br />
-      <a href="https://github.com/sufyancreatives/NLP-Projects" target="_blank"><strong>Explore Project →</strong></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🏆 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
+|:---:|:---:|:---:|:---:|
+| 🔮 **Customer Churn Prediction** | ML model predicting customer churn with 92% accuracy + Streamlit Dashboard | Python, Scikit-Learn, Pandas, NumPy, Seaborn, Streamlit | [View →](https://github.com/sufyancreatives/Customer-Churn-Prediction) |
+| 📊 **Sales Analytics Dashboard** | Interactive Business Intelligence Dashboard with trend analysis | Python, Pandas, Plotly, Matplotlib, Streamlit | [View →](https://github.com/sufyancreatives/Sales-Analytics-Dashboard) |
+| 🎓 **Student Performance Predictor** | Predicts student grades using ML classification algorithms | Python, Scikit-Learn, Seaborn, Pandas, NumPy | [View →](https://github.com/sufyancreatives/Student-Performance-Prediction) |
+| 🤖 **AI Chatbot** | NLP-powered chatbot with context understanding | Python, NLTK, TensorFlow, Keras | [View →](https://github.com/sufyancreatives/NLP-Projects) |
+| 🏠 **House Price Prediction** | Regression model for real estate price estimation | Python, Scikit-Learn, Pandas, Matplotlib | [View →](https://github.com/sufyancreatives/House-Price-Prediction) |
+| 📰 **News Sentiment Analyzer** | Classifies news articles as positive/negative/neutral | Python, NLTK, Pandas, Scikit-Learn | [View →](https://github.com/sufyancreatives/News-Sentiment-Analyzer) |
+
+</div>
 
 ---
 
-## 📚 Current Learning Journey
+<!-- ━━━━━━━━━━━━━━━━━━━━━ LEARNING JOURNEY ━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-Here is what I am actively focusing on to push the boundaries of my intelligence framework:
+## 📚 Learning Journey & Roadmap
 
 ```text
-✅ Python Programming & Data Science Fundamentals
-✅ Advanced Statistical Data Analysis & Exploratory Dashboards
-✅ Classical Machine Learning (Supervised/Unsupervised Algorithms)
+════════════════════════════════════════════════════════
+                   MY DATA SCIENCE PATH
+════════════════════════════════════════════════════════
 
-🔄 Deep Learning Architectures (ANNs, CNNs, RNNs)
-🔄 Natural Language Processing (NLP) & Text Embeddings
-🔄 Computer Vision Frameworks (OpenCV, PyTorch)
+FOUNDATIONS (Completed ✅)
+  ✅ Python Programming
+  ✅ NumPy — Numerical Computing
+  ✅ Pandas — Data Manipulation
+  ✅ Matplotlib — Data Visualization
+  ✅ Seaborn — Statistical Visualization
+  ✅ SQL — Database Querying
+  ✅ Git & GitHub — Version Control
+  ✅ Statistics & Probability
+  ✅ Exploratory Data Analysis (EDA)
 
-🎯 Production-Grade MLOps pipelines
-🎯 Generative AI & LLM Integrations
+MACHINE LEARNING (In Progress 🔄)
+  ✅ Supervised Learning (Regression & Classification)
+  ✅ Unsupervised Learning (Clustering, PCA)
+  ✅ Scikit-Learn Mastery
+  ✅ Feature Engineering & Selection
+  ✅ Model Evaluation & Tuning
+  🔄 Gradient Boosting — XGBoost, LightGBM
+  🔄 Ensemble Methods
+
+DEEP LEARNING (Learning 🔄)
+  🔄 Neural Networks Fundamentals
+  🔄 TensorFlow & Keras
+  🔄 Convolutional Neural Networks (CNN)
+  🔄 Recurrent Neural Networks (RNN / LSTM)
+  🎯 Transformers & Attention Mechanism
+
+NLP (Learning 🔄)
+  🔄 Text Preprocessing
+  🔄 Sentiment Analysis
+  🎯 Word Embeddings (Word2Vec, GloVe)
+  🎯 BERT & GPT Fine-tuning
+
+ADVANCED GOALS (Future 🎯)
+  🎯 Computer Vision
+  🎯 MLOps & Model Deployment
+  🎯 Generative AI & LLMs
+  🎯 AWS / Azure for ML
+  🎯 Apache Spark — Big Data
+  🎯 Real-Time ML Pipelines
+
+════════════════════════════════════════════════════════
 ```
 
 ---
 
-## 🏆 Achievements
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ ACHIEVEMENTS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-- **✔️ End-to-End Data Science Projects** — Translated messy raw files into structured dashboard applications.
-- **✔️ Optimized Machine Learning Models** — Successfully built regression and classification models with high recall/precision.
-- **✔️ Interactive Streamlit Applications** — Deployed multiple production-grade visual dashboards.
-- **✔️ GitHub Portfolio Development** — Standardized modern repositories showcasing reproducible codebases.
-- **✔️ Open Source Learning & Contribution** — Actively participating in tech communities and engineering blogs.
-
----
-
-## 🎯 Why Hire Me?
-
-<table>
-  <tr>
-    <td><strong>💪 Strong Data Analysis Skills</strong></td>
-    <td>Able to discover deep patterns and extract valuable insights from chaotic, noisy datasets.</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Machine Learning Mastery</strong></td>
-    <td>Solid command of regression, classification, clustering, and end-to-end ML evaluation pipelines.</td>
-  </tr>
-  <tr>
-    <td><strong>💡 Problem-Solving Mindset</strong></td>
-    <td>Driven by engineering concrete, elegant, and intelligent solutions to address complex real-world issues.</td>
-  </tr>
-  <tr>
-    <td><strong>🚀 Fast Learner & Adaptable</strong></td>
-    <td>Thrive in evolving ecosystems; quickly master new frameworks, libraries, and best-practice workflows.</td>
-  </tr>
-  <tr>
-    <td><strong>✨ AI Evangelist & Portfolio Ready</strong></td>
-    <td>Equipped with a repository of modular projects showing full command of visual deployment and documentation.</td>
-  </tr>
-</table>
-
----
-
-## 📅 2026 Goals
-
-- [ ] 🎓 Complete Advanced Machine Learning Specializations
-- [ ] 📁 Build & Deploy 20+ Production-Ready Data Science Projects
-- [ ] 🤖 Master Deep Learning Architectures & PyTorch
-- [ ] ⚙️ Automate Deployments with MLOps best practices
-- [ ] 🌐 Contribute actively to open-source Machine Learning frameworks
-- [ ] 💼 Secure a high-impact Data Science / Machine Learning Internship
-- [ ] 🚀 Complete a stunning, fully-functional Custom Portfolio Website
-
----
-
-## 📂 Recommended Portfolio Directory Structure
-
-Here's how I organize my code repositories to ensure clean, structured, and modular layouts for recruiters:
+## 🏆 Achievements & Milestones
 
 ```text
-📂 Data-Science-Projects
-│
-├── 📂 Customer-Churn-Prediction      # Streamlit dashboard, Churn ML classifiers
-├── 📂 Sales-Analytics-Dashboard        # Business intelligence charts & visualizations
-├── 📂 Student-Performance-Prediction   # Regression models and feature pipelines
-├── 📂 NLP-Projects                     # AI chatbot & text embeddings codebases
-├── 📂 Deep-Learning-Projects           # Neural networks and PyTorch implementations
-├── 📂 Streamlit-Apps                   # Live analytics dashboards and web interfaces
-├── 📂 SQL-Projects                     # Complex database schemas and analytic queries
-└── 📂 Portfolio-Website                # React/Next.js/HTML clean portfolio code
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🥇  Built 10+ ML & Data Science Projects              │
+│   🥇  Deployed Streamlit Applications on Cloud          │
+│   🥇  Mastered NumPy, Pandas, Seaborn, Matplotlib       │
+│   🥇  Completed Customer Churn Prediction (92% Acc.)    │
+│   🥇  Completed Sales Analytics Dashboard               │
+│   🥈  Developed GitHub Developer Portfolio              │
+│   🥈  Learned Deep Learning Fundamentals                │
+│   🥈  Completed 5+ Kaggle Datasets Analysis             │
+│   🥉  Started Open Source Contributions                 │
+│   🥉  Built NLP Chatbot Project                         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ 2026 GOALS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🎯 2026 Goals
+
+```text
+Q1 2026:
+  □ Complete Deep Learning Specialization
+  □ Build 5 New ML Projects
+  □ Learn TensorFlow Advanced Features
+  □ Start NLP Projects
+
+Q2 2026:
+  □ Learn Computer Vision (OpenCV + CNN)
+  □ Deploy 3 ML Models to Cloud
+  □ Start MLOps Learning
+  □ Contribute to Open Source
+
+Q3 2026:
+  □ Learn Generative AI & LLMs
+  □ Build Portfolio Website
+  □ Apply for Data Science Internship
+  □ Learn AWS SageMaker
+
+Q4 2026:
+  □ Complete 20+ Data Science Projects
+  □ Land First Data Science Role
+  □ Kaggle Competitions
+  □ Build Personal AI Product
+```
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ WHY HIRE ME ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 💼 Why Work With Me?
+
+```text
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│  ✔  Strong Data Science Foundations (NumPy, Pandas, Sklearn)  │
+│  ✔  Real Project Experience with Deployed Applications        │
+│  ✔  Excellent Python & SQL Programming Skills                 │
+│  ✔  Clean, Readable, Well-Documented Code                     │
+│  ✔  Strong Data Visualization (Matplotlib, Seaborn, Plotly)   │
+│  ✔  Fast Learner — Adapts Quickly to New Tech                 │
+│  ✔  Problem-Solver with Analytical Mindset                    │
+│  ✔  Passionate, Dedicated & Hardworking                       │
+│  ✔  Collaborative Team Player                                 │
+│  ✔  Open to Feedback & Continuous Improvement                 │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ CONNECT WITH ME ━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  
-  <!-- Note: Replace placeholders with your actual social links -->
-  <a href="https://github.com/sufyancreatives" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_WEBSITE" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio Website" />
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sufyancreatives)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sufyancreatives)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/sufyancreatives)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sufyancreatives@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/sufyancreatives)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sufyancreatives)
 
 </div>
 
-<br />
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━ PROFILE VIEWS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <div align="center">
-  
-  ### 💡 Quote of the Day
-  > *"Turning Data into Insights and Ideas into Intelligent Solutions."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=sufyancreatives&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/sufyancreatives?style=for-the-badge&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/sufyancreatives?style=for-the-badge&color=yellow)
 
 </div>
 
-<br />
-<hr />
-<p align="center">⭐️ If you like what you see, feel free to star my repositories and connect! Deployed with ❤️ by Sufyan.</p>
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━ QUOTE SECTION ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+### 💡 My Philosophy
+
+> *"Turning Data into Insights and Ideas into Intelligent Solutions."*
+
+> *"Every dataset tells a hidden story — I make sure the world hears it."*
+
+> *"The best data scientist is not who knows the most — but who learns the fastest."*
+
+</div>
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━ SNAKE GAME ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/sufyancreatives/sufyancreatives/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> ⚠️ **To enable Snake:** Go to your GitHub Actions and add the snake workflow from [here](https://github.com/Platane/snk)
+
+---
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━ FOOTER WAVE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+<div align="center">
+
+**⭐ Star my repositories if you find them helpful! ⭐**
+
+**🤝 Let's connect and build something amazing together!**
+
+</div>
