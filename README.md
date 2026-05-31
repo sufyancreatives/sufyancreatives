@@ -13,7 +13,7 @@ Premium neon-purple & radical aesthetic · Fully badge-driven · Recruiter-ready
 <div align="center">
 
   <!-- Dynamic Typing Subtitle -->
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=9F55FF&background=00000000&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96;Machine+Learning+Developer+%F0%9F%A7%A0;Data+Storyteller+%F0%9F%93%96;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 
@@ -48,7 +48,7 @@ Premium neon-purple & radical aesthetic · Fully badge-driven · Recruiter-ready
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o1ZjV2MXJ4ZjVnd3AzdDB4Nzg0MXM0aGJsdXZwNGJ5cjB5azVxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVt9spfK54CrZI/giphy.gif" width="220px" alt="Data Science Coding" />
+      <img src="https://media.giphy.com/media/L1R1TVt9spfK54CrZI/giphy.gif" width="220px" alt="Data Science Coding" />
     </td>
   </tr>
 </table>
@@ -180,7 +180,7 @@ Premium neon-purple & radical aesthetic · Fully badge-driven · Recruiter-ready
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sufyancreatives&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sufyancreatives&theme=radical&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
 
@@ -223,12 +223,12 @@ Power BI        ██████████████░░░░░░   7
 
 | 🏆 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:---:|:---:|:---:|:---:|
-| 🔮 **Customer Churn Prediction** | ML model predicting customer churn with 92% accuracy + Streamlit Dashboard | Python, Scikit-Learn, Pandas, NumPy, Seaborn, Streamlit | [View →](https://github.com/sufyancreatives/Customer-Churn-Prediction) |
-| 📊 **Sales Analytics Dashboard** | Interactive Business Intelligence Dashboard with trend analysis | Python, Pandas, Plotly, Matplotlib, Streamlit | [View →](https://github.com/sufyancreatives/Sales-Analytics-Dashboard) |
-| 🎓 **Student Performance Predictor** | Predicts student grades using ML classification algorithms | Python, Scikit-Learn, Seaborn, Pandas, NumPy | [View →](https://github.com/sufyancreatives/Student-Performance-Prediction) |
-| 🤖 **AI Chatbot** | NLP-powered chatbot with context understanding | Python, NLTK, TensorFlow, Keras | [View →](https://github.com/sufyancreatives/NLP-Projects) |
-| 🏠 **House Price Prediction** | Regression model for real estate price estimation | Python, Scikit-Learn, Pandas, Matplotlib | [View →](https://github.com/sufyancreatives/House-Price-Prediction) |
-| 📰 **News Sentiment Analyzer** | Classifies news articles as positive/negative/neutral | Python, NLTK, Pandas, Scikit-Learn | [View →](https://github.com/sufyancreatives/News-Sentiment-Analyzer) |
+| 🔮 **Customer Churn Prediction Dashboard** | ML-powered dashboard that predicts customer churn and compares multiple ML models | Python, Scikit-Learn, Pandas, Streamlit | [View →](https://github.com/sufyancreatives/Customer-Churn-Analysis-Prediction-ML-Dashboard-) |
+| 🧠 **Nexa Brain AI** | All-in-one AI assistant with 5 core capabilities | Python, AI, Generative Models | [View →](https://github.com/sufyancreatives/Nexa-Brain-AI) |
+| 🤖 **Veria Assistant** | Hackathon Alpha project - smart virtual assistant | JavaScript, Web Technologies | [View →](https://github.com/sufyancreatives/veria-assistant) |
+| 📊 **Smart Datasets Analytics** | Interactive Dataset Analysis Web App to explore and visualize data easily | Python, Streamlit, Pandas | [View →](https://github.com/sufyancreatives/Smart-datasets-analytics-app-) |
+| ⛅ **Aesthetic Weather Analytics** | Portfolio Streamlit App for weather analysis | Python, Streamlit | [View →](https://github.com/sufyancreatives/asthetic-weather-anylatics) |
+| 💼 **Portfolio App** | Personal portfolio interactive web application | Python, Streamlit | [View →](https://github.com/sufyancreatives/portfolio-app) |
 
 </div>
 
